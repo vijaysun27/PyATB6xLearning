@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_match/LabMatch002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_match/LabSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab049_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_14_Oct_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_16_Oct_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_18_Oct_API_Retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_18_Oct_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_18_Oct_Page_loading_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +85,12 @@
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.Task001.executor": "Run",
+    "Python.task_14_Oct_Operator.executor": "Run",
+    "Python.task_14_Oct_operator_2.executor": "Run",
+    "Python.task_16_Oct_if_else.executor": "Run",
+    "Python.task_18_Oct_API_Retry.executor": "Run",
+    "Python.task_18_Oct_Loop.executor": "Run",
+    "Python.task_18_Oct_Page_loading_check.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -94,8 +101,8 @@
       <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab049_while">
-    <configuration name="Lab042_if_condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task_18_Oct_Page_loading_check">
+    <configuration name="task_14_Oct_operator_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditional_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditional_loops/Lab042_if_condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_14_Oct_operator_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab048_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_16_Oct_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab048_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_16_Oct_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab049_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_18_Oct_API_Retry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/Lab049_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_18_Oct_API_Retry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabMatch002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_18_Oct_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_Switch_match" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_06_Switch_match/LabMatch002.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vijay\Documents\PyATB6xLearning\task\task_18_Oct_Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabSwitch001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_18_Oct_Page_loading_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_Switch_match" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_06_Switch_match/LabSwitch001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_18_Oct_Page_loading_check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab049_while" />
-        <item itemvalue="Python.Lab048_Loop" />
-        <item itemvalue="Python.LabMatch002" />
-        <item itemvalue="Python.LabSwitch001" />
-        <item itemvalue="Python.Lab042_if_condition" />
+        <item itemvalue="Python.task_18_Oct_Page_loading_check" />
+        <item itemvalue="Python.task_18_Oct_API_Retry" />
+        <item itemvalue="Python.task_18_Oct_Factorial" />
+        <item itemvalue="Python.task_16_Oct_if_else" />
+        <item itemvalue="Python.task_14_Oct_operator_2" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761204315894</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1761228190141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761228190141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
