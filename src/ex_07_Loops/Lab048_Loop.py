@@ -15,5 +15,8 @@
 # for i in range(10,0,-1): #Reverse
 #     print(i)
 
-num = range(10)
-print(num)
+# num = range(10)
+# print(num)
+
+for i in range(5):
+    print(i)
