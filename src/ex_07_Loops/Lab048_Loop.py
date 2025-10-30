@@ -18,5 +18,16 @@
 # num = range(10)
 # print(num)
 
-for i in range(5):
+# for i in range(5):
+#     print(i)
+
+# for i in range(0,10):
+#     if i==5:
+#         print("Five")
+#     else:
+#         print(i)
+
+for i in range(0,10):
     print(i)
+    if i == 5:
+        break
