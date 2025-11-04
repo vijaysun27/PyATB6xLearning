@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Oct30th Task Completed">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab051_infiinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab052_Real_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_scopes/Lab053_Local_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_scopes/Lab054_Inner_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/classTask_Nov1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab050_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab050_functions.py" afterDir="false" />
+    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 1 Class notes">
+      <change afterPath="$PROJECT_DIR$/task/task_01_Nov_Func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +86,7 @@
     "Python.LabSwitch001.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.classTask_28_Oct_fizzbuzz.executor": "Run",
+    "Python.task_01_Nov_Func.executor": "Run",
     "Python.task_14_Oct_Operator.executor": "Run",
     "Python.task_14_Oct_operator_2.executor": "Run",
     "Python.task_16_Oct_if_else.executor": "Run",
@@ -114,29 +109,7 @@
       <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab054_Inner_Function">
-    <configuration name="Lab050_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab050_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.task_01_Nov_Func">
     <configuration name="Lab051_infiinite_Args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -225,13 +198,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_01_Nov_Func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_01_Nov_Func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_01_Nov_Func" />
         <item itemvalue="Python.Lab054_Inner_Function" />
         <item itemvalue="Python.Lab053_Local_variables" />
         <item itemvalue="Python.Lab052_Real_args" />
         <item itemvalue="Python.Lab051_infiinite_Args" />
-        <item itemvalue="Python.Lab050_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761889022723</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Nov 1 Class notes">
+      <option name="closed" value="true" />
+      <created>1762269633042</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762269633043</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +354,7 @@
     <MESSAGE value="Oct28th Tasks Completed" />
     <MESSAGE value="Oct30th Notes" />
     <MESSAGE value="Oct30th Task Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct30th Task Completed" />
+    <MESSAGE value="Nov 1 Class notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 1 Class notes" />
   </component>
 </project>
