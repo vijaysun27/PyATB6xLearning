@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 1 Class notes">
-      <change afterPath="$PROJECT_DIR$/task/task_01_Nov_Func.py" afterDir="false" />
+    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 1 Task completed">
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab055_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab056_Decorators_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab057_Real_Decorator_Ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab058_Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab059_TypeConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda/Lab060_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda/Lab061_userInput_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/classTask_Nov3_Triangle_Classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/class_task_Nov3_LeapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task_30_Oct_Triangle_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_30_Oct_Triangle_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +90,20 @@
     "Python.Lab052_Real_args.executor": "Run",
     "Python.Lab053_Local_variables.executor": "Run",
     "Python.Lab054_Inner_Function.executor": "Run",
+    "Python.Lab055_Decorators.executor": "Run",
+    "Python.Lab056_Decorators_1.executor": "Run",
+    "Python.Lab057_Real_Decorator_Ex.executor": "Run",
+    "Python.Lab058_Time.executor": "Run",
+    "Python.Lab059_TypeConversion.executor": "Run",
+    "Python.Lab060_Lambda.executor": "Run",
+    "Python.Lab061_userInput_Lambda.executor": "Run",
     "Python.Lab14_math_functions.executor": "Run",
     "Python.Lab21_user_Input.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.classTask_28_Oct_fizzbuzz.executor": "Run",
+    "Python.class_task_Nov3_LeapYear.executor": "Run",
     "Python.task_01_Nov_Func.executor": "Run",
     "Python.task_14_Oct_Operator.executor": "Run",
     "Python.task_14_Oct_operator_2.executor": "Run",
@@ -109,8 +127,8 @@
       <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_01_Nov_Func">
-    <configuration name="Lab051_infiinite_Args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab061_userInput_Lambda">
+    <configuration name="Lab058_Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab051_infiinite_Args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decorators/Lab058_Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab052_Real_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab059_TypeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11_TypeConversion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_Functions/Lab052_Real_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab059_TypeConversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab053_Local_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab060_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_scopes/Lab053_Local_variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda/Lab060_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab054_Inner_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab061_userInput_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Functions_scopes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Functions_scopes/Lab054_Inner_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda/Lab061_userInput_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_01_Nov_Func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class_task_Nov3_LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_01_Nov_Func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/class_task_Nov3_LeapYear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_01_Nov_Func" />
-        <item itemvalue="Python.Lab054_Inner_Function" />
-        <item itemvalue="Python.Lab053_Local_variables" />
-        <item itemvalue="Python.Lab052_Real_args" />
-        <item itemvalue="Python.Lab051_infiinite_Args" />
+        <item itemvalue="Python.Lab061_userInput_Lambda" />
+        <item itemvalue="Python.Lab060_Lambda" />
+        <item itemvalue="Python.Lab059_TypeConversion" />
+        <item itemvalue="Python.class_task_Nov3_LeapYear" />
+        <item itemvalue="Python.Lab058_Time" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762269633043</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Nov 1 Task completed">
+      <option name="closed" value="true" />
+      <created>1762270369991</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762270369991</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,6 +381,7 @@
     <MESSAGE value="Oct30th Notes" />
     <MESSAGE value="Oct30th Task Completed" />
     <MESSAGE value="Nov 1 Class notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nov 1 Class notes" />
+    <MESSAGE value="Nov 1 Task completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 1 Task completed" />
   </component>
 </project>
