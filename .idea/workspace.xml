@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 4 Task completed">
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab062_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab063_List_mutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab064_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab065_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab066_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab067_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab068_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/class_Nov6_task_tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/task_04_Nov_RightTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_04_Nov_RightTriangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +95,20 @@
     "Python.Lab059_TypeConversion.executor": "Run",
     "Python.Lab060_Lambda.executor": "Run",
     "Python.Lab061_userInput_Lambda.executor": "Run",
+    "Python.Lab062_Lists.executor": "Run",
+    "Python.Lab063_List_mutable.executor": "Run",
+    "Python.Lab064_pop.executor": "Run",
+    "Python.Lab065_Tuple.executor": "Run",
+    "Python.Lab066_Tuple.executor": "Run",
+    "Python.Lab067_Tuple.executor": "Run",
+    "Python.Lab068_Set.executor": "Run",
     "Python.Lab14_math_functions.executor": "Run",
     "Python.Lab21_user_Input.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.classTask_28_Oct_fizzbuzz.executor": "Run",
+    "Python.class_Nov6_task_tuple.executor": "Run",
     "Python.class_task_Nov3_LeapYear.executor": "Run",
     "Python.task_01_Nov_Func.executor": "Run",
     "Python.task_04_Nov_RightTriangle (1).executor": "Run",
@@ -121,8 +136,8 @@
       <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_04_Nov_RightTriangle (1)">
-    <configuration name="Lab059_TypeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task_04_Nov_RightTriangle">
+    <configuration name="Lab066_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11_TypeConversion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab059_TypeConversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_14_Tuple/Lab066_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab060_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab067_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda/Lab060_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_14_Tuple/Lab067_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab061_userInput_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab068_Set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda/Lab061_userInput_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_15_Set/Lab068_Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_04_Nov_RightTriangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class_Nov6_task_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_04_Nov_RightTriangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/class_Nov6_task_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vijay\Documents\PyATB6xLearning\task\task_04_Nov_RightTriangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_04_Nov_RightTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_04_Nov_RightTriangle (1)" />
         <item itemvalue="Python.task_04_Nov_RightTriangle" />
-        <item itemvalue="Python.Lab061_userInput_Lambda" />
-        <item itemvalue="Python.Lab060_Lambda" />
-        <item itemvalue="Python.Lab059_TypeConversion" />
+        <item itemvalue="Python.Lab068_Set" />
+        <item itemvalue="Python.Lab067_Tuple" />
+        <item itemvalue="Python.class_Nov6_task_tuple" />
+        <item itemvalue="Python.Lab066_Tuple" />
       </list>
     </recent_temporary>
   </component>
