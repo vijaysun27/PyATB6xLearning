@@ -10,4 +10,5 @@ dict2 = {"c": 3, "d": 4}
 
 merged_dict = dict1 | dict2
 print(merged_dict)
-print(merged_dict.get("a"))
+print(merged_dict.get("a",9))
+print(merged_dict.get("z",3)) # 3 is the default value, get() will return the default value is the key is not present.
