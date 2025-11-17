@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 8 Class Notes">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab080_dict_Max_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab081_Duplicate_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab082_find_vowel_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Lab083_OOPS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/class_Task_Nov11_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_Nov11_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_Nov_11_vowels_const_string.py" afterDir="false" />
+    <list default="true" id="5e428227-9c10-4d7e-81a8-3ea16c74abd2" name="Changes" comment="Nov 11 Task Complete">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Class_Object/Lab084_Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab085_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab086_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab089_User_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab090_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab091_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable/Lab092_OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable/Lab093_OOPS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab079_list_Concepts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab079_list_Concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Lab083_OOPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS_Python/Class_Object/Lab083_OOPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task_Nov_11_vowels_const_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_Nov_11_vowels_const_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +119,13 @@
     "Python.Lab081_Duplicate_dict.executor": "Run",
     "Python.Lab082_find_vowel_count.executor": "Run",
     "Python.Lab083_OOPS.executor": "Run",
+    "Python.Lab085_Class.executor": "Run",
+    "Python.Lab086_Class.executor": "Run",
+    "Python.Lab089_User_Input.executor": "Run",
+    "Python.Lab090_Calc.executor": "Run",
+    "Python.Lab091_Calc.executor": "Run",
+    "Python.Lab092_OOPS.executor": "Run",
+    "Python.Lab093_OOPS.executor": "Run",
     "Python.Lab14_math_functions.executor": "Run",
     "Python.Lab21_user_Input.executor": "Run",
     "Python.LabMatch002.executor": "Run",
@@ -152,11 +161,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_18_OOPS_Python\Class_Object" />
       <recent name="C:\Users\Vijay\Documents\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_Nov_11_vowels_const_string">
-    <configuration name="Lab081_Duplicate_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab092_OOPS">
+    <configuration name="Lab089_User_Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab081_Duplicate_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab089_User_Input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab082_find_vowel_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab090_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dictionary/Lab082_find_vowel_count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab090_Calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab083_OOPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab091_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Lab083_OOPS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Constructor/Lab091_Calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_Nov11_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab092_OOPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_Nov11_Palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable/Lab092_OOPS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_Nov_11_vowels_const_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab093_OOPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/task_Nov_11_vowels_const_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS_Python/Instance_Variable/Lab093_OOPS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_Nov_11_vowels_const_string" />
-        <item itemvalue="Python.task_Nov11_Palindrome" />
-        <item itemvalue="Python.Lab083_OOPS" />
-        <item itemvalue="Python.Lab082_find_vowel_count" />
-        <item itemvalue="Python.Lab081_Duplicate_dict" />
+        <item itemvalue="Python.Lab092_OOPS" />
+        <item itemvalue="Python.Lab093_OOPS" />
+        <item itemvalue="Python.Lab091_Calc" />
+        <item itemvalue="Python.Lab090_Calc" />
+        <item itemvalue="Python.Lab089_User_Input" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +421,31 @@
       <option name="project" value="LOCAL" />
       <updated>1762875143347</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Nov 11 Class Notes">
+      <option name="closed" value="true" />
+      <created>1762933753502</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762933753503</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Nov 11 Task">
+      <option name="closed" value="true" />
+      <created>1762933783629</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762933783629</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Nov 11 Task Complete">
+      <option name="closed" value="true" />
+      <created>1762934033989</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762934033989</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +471,9 @@
     <MESSAGE value="Nov 3 Class Notes" />
     <MESSAGE value="Nov 4 Task completed" />
     <MESSAGE value="Nov 8 Class Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nov 8 Class Notes" />
+    <MESSAGE value="Nov 11 Class Notes" />
+    <MESSAGE value="Nov 11 Task" />
+    <MESSAGE value="Nov 11 Task Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 11 Task Complete" />
   </component>
 </project>

@@ -42,4 +42,4 @@ amit = Person()
 navita = Person()
 #print(geeta.name) # - A
 geeta.sleep("pramod") # - B
-amit.walk()
+amit.walk() 

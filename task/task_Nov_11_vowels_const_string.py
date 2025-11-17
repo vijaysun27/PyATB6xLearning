@@ -11,7 +11,7 @@ def count_vowels_const(string):
             else:
                 const_count.append(char)
         else:
-            return f"String is Invalid, enter a valid string from a-z/A-Z"
+            return f"String is Invalid, enter a valid string from a-z or A-Z"
     return f"The vowel count is {len(vowel_count)} and consonents count is {len(const_count)}"
 
 input_string = input("Enter a string: ").strip()
