@@ -10,5 +10,6 @@ class Person:
 
 
 object_ref = Person()
-#print(b)
-#print(c)
+object_ref.print_info()
+# print(b)
+# print(c)

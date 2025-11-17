@@ -7,3 +7,9 @@ class Dog:
     def bark(self):
         print("Barking")
         print(self.name)
+
+    def playful(self, name):
+        print(f"{name}, You are very playful! {name}")
+
+rancho = Dog()
+rancho.playful("Rancho")
