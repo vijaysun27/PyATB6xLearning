@@ -13,3 +13,4 @@ print(a.difference(b))
 print(b.difference(a))
 
 print(a^b)
+print(a.symmetric_difference(b))

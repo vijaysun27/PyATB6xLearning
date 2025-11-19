@@ -1,2 +1,2 @@
 p={"name": "Pramod","name": "Amit"}
-print(p)
+print(p['role'])

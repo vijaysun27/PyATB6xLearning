@@ -12,3 +12,9 @@ print(my_dict2)
 
 print(type(my_dict))
 print(type(my_dict2))
+
+print(my_dict.pop("role"))
+print(my_dict)
+
+if "age" in my_dict:
+    print("Yes")
